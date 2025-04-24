@@ -6,7 +6,7 @@
 - 🌱 I’m learning: `Pytorch`, `Kivy`,`MediaPipe`
 - 👯 I’m looking to collaborate on: Open-source projects in education or community apps.
 - 💬 Ask me about: 🔧 Linux servers | 🐍 Python scripting | 🚀 Laravel tips | 🗃️ Database administration (PostgreSQL, Oracle, MongoDB)
-- ⚡ Fun fact: It’s while coding that you recognize true love: it annoys me sometimes, but I never get tired of it!
+- ⚡ Fun fact: I found true love in coding: it sometimes drives me crazy, but I never get tired of it!
 
 ---
 
