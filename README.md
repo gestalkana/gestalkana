@@ -1,5 +1,5 @@
 
-# Hi, I'm Gabriel!  
+# Hi, I'm Gabriel Andriamahafaly!  
 ### Passionate about tech, coding, and learning new things.
 
 - 🔭 I’m currently working on: **MitradeMaster Management App**
