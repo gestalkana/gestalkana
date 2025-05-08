@@ -19,7 +19,6 @@
 ![Oracle](https://img.shields.io/badge/-Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![test]
 ---
 
 ## 📊 GitHub Stats:
