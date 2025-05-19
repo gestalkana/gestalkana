@@ -6,7 +6,7 @@
 - 🌱 I’m learning: `Pytorch`, `Kivy`,`MediaPipe`
 - 👯 I’m looking to collaborate on: Open-source projects in education or community apps.
 - Ask me about:
-  <img src="https://cdn.simpleicons.org/linux/000000" width="15" /> Linux servers |
+  <img src="https://img.shields.io/badge/- -FCC624?style=flat&logo=linux&logoColor=black" width="20" /> Linux servers |
   <img src="https://cdn.simpleicons.org/python/3776AB" width="15" /> Python scripting |
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="15" /> Laravel tips |
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="15" /> PostgreSQL |
