@@ -5,7 +5,14 @@
 - 🔭 I’m currently working on: **MitradeMaster Management App**
 - 🌱 I’m learning: `Pytorch`, `Kivy`,`MediaPipe`
 - 👯 I’m looking to collaborate on: Open-source projects in education or community apps.
-- 💬 Ask me about: 🔧 Linux servers | 🐍 Python scripting | 🚀 Laravel tips | 🗃️ Database administration (PostgreSQL, Oracle, MongoDB)
+- Ask me about:
+  <img src="https://cdn.simpleicons.org/linux/000000" width="15" /> Linux servers |
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="15" /> Python scripting |
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="15" /> Laravel tips |
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="15" /> PostgreSQL |
+  <img src="https://img.shields.io/badge/-Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white" width="50" /> Oracle |
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="15" /> MongoDB
+
 - ⚡ Fun fact: I found true love in coding: it sometimes drives me crazy, but I never get tired of it!
 
 ---
