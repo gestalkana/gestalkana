@@ -2,7 +2,7 @@
 # Hi, I'm Gabriel Andriamahafaly!  
 ### Passionate about tech, coding, and learning new things.
 
-- I’m currently working on: **MitradeMaster Management App**
+- I’m currently working on: **MitradeMaster Management App** and **Tantana Mobile App**
 - I’m learning: `Pytorch`, `Kivy`,`MediaPipe`
 - I’m looking to collaborate on: Open-source projects in education or community apps.
 - Ask me about:
