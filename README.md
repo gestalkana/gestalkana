@@ -3,7 +3,7 @@
 ### Passionate about tech, coding, and learning new things.
 
 - I’m currently working on: **MitradeMaster Management App** and **Tantana Mobile App**
-- I’m learning: `Pytorch`, `Kivy`,`MediaPipe`,,`Electron`, 
+- I’m learning: `Pytorch`, `Kivy`,`MediaPipe`,`Electron`, 
 - I’m looking to collaborate on: Open-source projects in education or community apps.
 - Ask me about:
   <img src="https://img.shields.io/badge/- -FCC624?style=flat&logo=linux&logoColor=black" width="20" /> Linux |
